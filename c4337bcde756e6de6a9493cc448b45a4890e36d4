@@ -1,0 +1,1 @@
+{"jobID":"e7a6850c-74da-b54e-004f-9a1c5431ad4e","spec":{"type":"policy","cause":{"Message":"","User":"Ruben Naredo Martinez \u003crubennaredo@gmail.com\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"tag_all":"glob:3.2.*"},"remove":{}}}},"result":null}
